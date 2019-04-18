@@ -7,7 +7,7 @@ Created on Tue Dec 26 15:30:54 2017
 
 import pandas as pd
 import os
-os.chdir('F:\\研究生\\我爱数据处理\\统计软件考试  2017年秋')
+os.chdir('xxxx')
 
 def reducedim(data,dim = 2):
     from sklearn.decomposition import PCA
